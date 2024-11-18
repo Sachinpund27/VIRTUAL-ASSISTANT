@@ -78,8 +78,7 @@ https://youtu.be/wONJcv5ORsw
 ---    
 
 ## Contact
-- Rupal Singh - rupalsinghid@gmail.com  - https://www.linkedin.com/in/rupal-singh-40b3001a8/
-- Ratnesh kumar Tiwari - rktssgk@gmail.com -  https://www.linkedin.com/in/ratnesh-kumar-tiwari-867b521a6/
+- Sachin Pund -  sachinpund441@gmail.com - https://www.linkedin.com/in/sachin-pund-a53642334/
 - Sanskar Srivastava -  sanskar0703@gmail.com - https://www.linkedin.com/in/sanskar-srivastava-0319b3194/
 
 ---
