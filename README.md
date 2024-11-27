@@ -14,9 +14,7 @@ Project made by Team "Techtrio".
 ## Description
 
 This is virtual assistant project developed by the team Techtrio. This project is useful to do various  activities  by  using  users voice and as well as we can give command by texting also. It is made to  provide ease in peoples life. You can perform below mentioned features by giving command through voice or by texting in input box. <br>
-Link to our project video :<br>
-https://youtu.be/wONJcv5ORsw
-
+<br>
 #### Features
 
 - Can give commands by both "Voice" & "Text"
@@ -56,7 +54,7 @@ https://youtu.be/wONJcv5ORsw
 - Now activate environment by command :
  > .\assistant\Scripts\activate
 - Now clone the github repository by command :
- > git clone https://github.com/Ratnesh4193/virtual-assistant.git
+ > git clone https://github.com/Sachinpund27/VIRTUAL-ASSISTANT
 - Move inside project by command :
  > cd virtual-assistant
 - Download PyAudio library whl according to your python version from https://pypi.org/project/PyAudio/#files and install it in the virtual by command :
@@ -78,14 +76,13 @@ https://youtu.be/wONJcv5ORsw
 ---    
 
 ## Contact
-- Sachin Pund -  sachinpund441@gmail.com - https://www.linkedin.com/in/sachin-pund-a53642334/
 - Sanskar Srivastava -  sanskar0703@gmail.com - https://www.linkedin.com/in/sanskar-srivastava-0319b3194/
-
+- Sachin Pund - sachinpund441@gmail.com -  https://www.linkedin.com/in/sachin-pund-a53642334/
 ---
 
 ## Contributing
 1. Fork it
-   ```https://github.com/Ratnesh4193/virtual-assistant.git```
+   ```https://github.com/Sachinpund27/VIRTUAL-ASSISTANT```
 2. Create your feature branch: 
    ```git checkout -b feature/foobar```
 3. Commit your changes: 
