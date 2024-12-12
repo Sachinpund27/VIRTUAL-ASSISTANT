@@ -1,5 +1,5 @@
 from flask import Flask, render_template,request
-from script import assistant_gui
+from script import assistant_gui 
 
 
 app = Flask(__name__)
